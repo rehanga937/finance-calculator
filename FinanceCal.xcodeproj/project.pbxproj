@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 56;
+	objectVersion = 70;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -40,6 +40,7 @@
 
 /* Begin PBXFileReference section */
 		A3037B822A71755E00CACB1B /* AmortizationCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmortizationCell.swift; sourceTree = "<group>"; };
+		A3113B922DD0AACA009B4F44 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A3206B792A6B92470039CECA /* FinanceCal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FinanceCal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3206B7C2A6B92470039CECA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A3206B7E2A6B92470039CECA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -71,6 +72,10 @@
 		A3C8DD002A7149F8004D683B /* SavingsAmortization_TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SavingsAmortization_TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		A3113B932DD0AAD0009B4F44 /* readmeImages */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = readmeImages; sourceTree = "<group>"; };
+/* End PBXFileSystemSynchronizedRootGroup section */
+
 /* Begin PBXFrameworksBuildPhase section */
 		A3206B762A6B92470039CECA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
@@ -86,6 +91,8 @@
 		A3206B702A6B92470039CECA = {
 			isa = PBXGroup;
 			children = (
+				A3113B932DD0AAD0009B4F44 /* readmeImages */,
+				A3113B922DD0AACA009B4F44 /* README.md */,
 				A3206B7B2A6B92470039CECA /* FinanceCal */,
 				A3206B7A2A6B92470039CECA /* Products */,
 			);
